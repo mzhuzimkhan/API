@@ -48,7 +48,7 @@ YouTube, Vkontakte)
 **Run locally**
 
 ```bash
-  uvicorn parser.api:app 
+  uvicorn api:app 
 ```
 **Run in Docker**
 - Ensure you have docker and docker compose installed
