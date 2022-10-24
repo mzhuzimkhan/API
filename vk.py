@@ -1,5 +1,5 @@
 import requests
-token = 'vk1.a.IA-0n-vJJ-CutXMOMAvFKtiVMkwnfhTdNvAljjHpYt4brmmB5C6q5_GO8PMOunn2nUgxpV83S8d_Cm-z0mSY4HUjCLdlpDg-DlV3p89knQkjzeCfCJ9oWM5iq8Maqawj-MswWuhLlwDuVzdpAR_V3-BpXE5IyAPe7TOs6L-r4DaektXiA-hAcKi2cF0UoMCJ'
+token = 'Your Token from VK API'
 
 """
 It works with self vk API so there is no need to any subscription
